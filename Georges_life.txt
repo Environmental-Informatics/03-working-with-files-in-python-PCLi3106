@@ -2,7 +2,7 @@ Raccoon name:  George
 Average Location:  [591189.034454322, 4504604.085012094]
 Distance traveled:  593.9382753487247
 Average energy level:  563.6214285714285
-Raccoon end state:  ['George number 6 died from starvation']
+Raccoon end state:  6/19/2008
 
 Year	Day	Time	George #	 X	 Y	 Asleep	Behavior Mode	Energy Level	Risk	ProbFoodCap	MVL	MSL	PercptionDist	Percent Step	
 2008	6/19/2008	6:00 AM	6	591071.374756626	4504664.29938361	False	SafeSearchModifier	1000.0	0.00192	0.045	0.715	60.0	50.5	1	

@@ -77,7 +77,7 @@ avg_energy   = average(EnL)
 # Create a new dictionary with the parameters of the raccoon's characteristics and behavior
 Dict_George  = {"Raccoon name":"George","Average Location":[average_locX,average_locY],
                 "Distance traveled": sum_distance, "Average energy level": avg_energy,
-                "Raccoon end state": Data[len(lines)-1]}
+                "Raccoon end state": Data[len(lines)-2][1]}
 # Write the output file
 with open("Georges_life.txt",'w') as file:
 # Write the header first
